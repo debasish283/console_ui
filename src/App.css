@@ -1,6 +1,3 @@
-@import "https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap/0.32.1/react-bootstrap.min.js";
-@import "https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap/0.32.1/react-bootstrap.min.css";
-
 .App {
   text-align: center;
 }
@@ -28,8 +25,4 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
-}
-
-.spacing{
-  margin: 10px; 
 }

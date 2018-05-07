@@ -1,0 +1,46 @@
+2018-05-07T04:13:14.331Z - info:   [02300] *** FOLDER: c:\D\Demos\React\console_ui ***
+2018-05-07T04:13:14.347Z - info:   [02300] VSTSVSCode/1.133.0 (VSCode 1.22.2; Windows_NT 10.0.14393; Node 7.9.0)
+2018-05-07T04:13:14.347Z - debug:  [02300] Looking for an External Context at c:\D\Demos\React\console_ui
+2018-05-07T04:13:14.347Z - debug:  [02300] No External Context at c:\D\Demos\React\console_ui
+2018-05-07T04:13:14.362Z - debug:  [02300] Looking for TFVC repository at c:\D\Demos\React\console_ui
+2018-05-07T04:13:14.362Z - debug:  [02300] TFVC Creating Tfvc object with localPath='undefined'
+2018-05-07T04:13:14.362Z - debug:  [02300] Using TFS proxy: 
+2018-05-07T04:13:14.362Z - debug:  [02300] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\TF.exe'
+2018-05-07T04:13:14.362Z - debug:  [02300] TFVC Repository created with repositoryRootFolder='c:\D\Demos\React\console_ui'
+2018-05-07T04:13:14.362Z - debug:  [02300] TFVC Repository.CheckVersion
+2018-05-07T04:13:14.362Z - debug:  [02300] TFVC: tf add -noprompt -?
+2018-05-07T04:13:14.378Z - debug:  [02300] TFVC: spawned new process (duration: 16ms)
+2018-05-07T04:13:14.378Z - debug:  [02300] TFVC: spawned new process (duration: 0ms)
+2018-05-07T04:13:14.808Z - debug:  [02300] TFVC: add exit code: 0 (duration: 446ms)
+2018-05-07T04:13:14.808Z - debug:  [02300] TFVC Minimum required version: 14.102.0
+2018-05-07T04:13:14.808Z - debug:  [02300] TFVC (TF.exe, TF.cmd) version: 14.102.25619.0
+2018-05-07T04:13:14.808Z - debug:  [02300] TFVC Repository.FindWorkspace with localPath='c:\D\Demos\React\console_ui'
+2018-05-07T04:13:14.808Z - debug:  [02300] TFVC: tf workfold -noprompt ********
+2018-05-07T04:13:14.808Z - debug:  [02300] TFVC: spawned new process (duration: 0ms)
+2018-05-07T04:13:17.108Z - debug:  [02300] TFVC: workfold exit code: 100 (duration: 2300ms)
+2018-05-07T04:13:17.108Z - debug:  [02300] TFVC errors (via stderr): TF30063: You are not authorized to access tmpcmamva02\CMAS.
+
+2018-05-07T04:13:17.108Z - error:  [02300] It appears you are using a Server workspace. Currently, TFVC support is limited to Local workspaces.
+2018-05-07T04:50:16.746Z - info:   [05132] *** FOLDER: c:\D\Demos\React\console_ui ***
+2018-05-07T04:50:16.746Z - info:   [05132] VSTSVSCode/1.133.0 (VSCode 1.22.2; Windows_NT 10.0.14393; Node 7.9.0)
+2018-05-07T04:50:16.746Z - debug:  [05132] Looking for an External Context at c:\D\Demos\React\console_ui
+2018-05-07T04:50:16.746Z - debug:  [05132] No External Context at c:\D\Demos\React\console_ui
+2018-05-07T04:50:16.777Z - debug:  [05132] Looking for TFVC repository at c:\D\Demos\React\console_ui
+2018-05-07T04:50:16.777Z - debug:  [05132] TFVC Creating Tfvc object with localPath='undefined'
+2018-05-07T04:50:16.777Z - debug:  [05132] Using TFS proxy: 
+2018-05-07T04:50:16.777Z - debug:  [05132] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\TF.exe'
+2018-05-07T04:50:16.777Z - debug:  [05132] TFVC Repository created with repositoryRootFolder='c:\D\Demos\React\console_ui'
+2018-05-07T04:50:16.777Z - debug:  [05132] TFVC Repository.CheckVersion
+2018-05-07T04:50:16.777Z - debug:  [05132] TFVC: tf add -noprompt -?
+2018-05-07T04:50:16.793Z - debug:  [05132] TFVC: spawned new process (duration: 16ms)
+2018-05-07T04:50:16.793Z - debug:  [05132] TFVC: spawned new process (duration: 0ms)
+2018-05-07T04:50:17.234Z - debug:  [05132] TFVC: add exit code: 0 (duration: 457ms)
+2018-05-07T04:50:17.234Z - debug:  [05132] TFVC Minimum required version: 14.102.0
+2018-05-07T04:50:17.234Z - debug:  [05132] TFVC (TF.exe, TF.cmd) version: 14.102.25619.0
+2018-05-07T04:50:17.234Z - debug:  [05132] TFVC Repository.FindWorkspace with localPath='c:\D\Demos\React\console_ui'
+2018-05-07T04:50:17.234Z - debug:  [05132] TFVC: tf workfold -noprompt ********
+2018-05-07T04:50:17.250Z - debug:  [05132] TFVC: spawned new process (duration: 16ms)
+2018-05-07T04:50:19.678Z - debug:  [05132] TFVC: workfold exit code: 100 (duration: 2444ms)
+2018-05-07T04:50:19.678Z - debug:  [05132] TFVC errors (via stderr): TF30063: You are not authorized to access tmpcmamva02\CMAS.
+
+2018-05-07T04:50:19.678Z - error:  [05132] It appears you are using a Server workspace. Currently, TFVC support is limited to Local workspaces.
